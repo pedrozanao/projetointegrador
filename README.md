@@ -1,1 +1,2 @@
-# projetointegrador
+# projetointegrador Chat Online - Evangelize
+- Desenvolvido com Java JSP
